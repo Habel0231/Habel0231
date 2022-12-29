@@ -12,7 +12,17 @@ public class C01HelloWorld//클래스 영역-객체 지향 문법 적용 단위
 		// TODO Auto-generated method stub
 		System.out.println("HELLO WORLD");
 		//괄호 붙어있으면 대부분 함수
+		System.out.println("habel0231");
+		int sum=0;
+		for(int i=1;i<=10;i++) {
+			sum+=i;}
+		System.out.println(sum);
+		}
+		
+		
+		}
+		
 
-	}
 
-}
+
+
